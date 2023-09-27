@@ -24,4 +24,4 @@ License
 Contact
 -For questions or assistance, contact kirtiman7771@gmail.com.
 
-Enjoy using the Simple Calculator!
+Enjoy using the Simple Calculator! -https://kirtiman7771.github.io/Simple-Calculator/
