@@ -1,7 +1,7 @@
 # Simple-Calculator
 This is a basic command-line calculator program that performs simple arithmetic operations like addition, subtraction, multiplication, and division. It handles both integers and floating-point numbers and includes error handling for division by zero.
 
-Clone the Repository: Clone this GitHub repository to your local machine:
+Clone the Repository: Clone this GitHub repository to your local machine:         
 -git clone https://github.com/kirtiman7771/Simple-Calculator.git
 
 Usage
